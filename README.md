@@ -1,10 +1,11 @@
 # Pacman 
-
+It is made by using igraphics library and C langulage.
 ---
 ## Feature Of the game
 >HOME PAGE
 >
 ><img src ="./README_assets/home.JPG"  width="100%" style="display: block;margin-left: auto;margin-right: auto;">
+>
 >
 >GAME
 >
@@ -51,7 +52,8 @@
 >
 >Now play the game
 
-
+#Where you will find the main code
+>You will find the code in pac.cpp under IGraphics-master folder
 #In case you face any problem
 >Contact with me by email (bijoysaeem@gmail.com).
 >Or you can google and get the solution.
