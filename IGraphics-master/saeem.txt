@@ -1,1 +1,19 @@
-360 Alam
+500 
+360   Alam
+350 
+340   Niloy
+300   Ruhana
+250   Salbia
+230  
+220   Kawsar
+140   Bulbul
+130 Raihan
+7 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
