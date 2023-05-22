@@ -39,7 +39,7 @@
 2. If you don't have git installed in your device then download zip and then unzip it.
 
 
-#HOW TO PLAY THE GAME
+# HOW TO PLAY THE GAME
 
 >Go to the IGraphics-master.
 >Then click to the IGraphics.cbp(Open in the codeblocks)
@@ -52,9 +52,10 @@
 >
 >Now play the game
 
-#Where you will find the main code
+# Where you will find the main code
 >You will find the code in pac.cpp under IGraphics-master folder
-#In case you face any problem
+
+# In case you face any problem
 >Contact with me by email (bijoysaeem@gmail.com).
 >Or you can google and get the solution.
 
