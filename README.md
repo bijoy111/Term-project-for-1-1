@@ -1,5 +1,5 @@
 # Pacman 
-It is made by using igraphics library and C langulage.
+>It is made by using igraphics library and C langulage.
 ---
 ## Feature Of the game
 >HOME PAGE
